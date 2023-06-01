@@ -11,6 +11,8 @@ Learn python concepts
     Running specific for loops
     Matlab plotting
 
+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
+
 NOTES:
 git status
     check status and if files are up to date
@@ -19,9 +21,12 @@ git add FILE
 git add .
     temporarily update ALL files that are out of sync
 git commit -m "MESSAGE"
-    Commit your temporary changes in Git to Github
+    Commit your temporary changes in Git (meaning you can safely close Jupyter)
     Make sure you leave a conside message clarifying what you did
 git pull
     Download everything from Github to my local files
     IMPORTANT TO DO THIS FIRST THING EVERY DAY
 git push
+    Commit all your localized changes to Github for all collaborators to see & edit
+git log
+    Show all your commit history
