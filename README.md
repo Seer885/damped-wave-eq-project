@@ -11,7 +11,6 @@ Learn python concepts
     Running specific for loops
     Matlab plotting
 
-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
 
 NOTES:
 git status
