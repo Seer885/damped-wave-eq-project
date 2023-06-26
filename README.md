@@ -32,3 +32,21 @@ Laid foundations for solving differential equations by noting the following fact
 - y''(x) = D2 * y(x)
 
 - (etc)
+
+
+
+**Week 3
+
+Solving dy/dx = k
+
+- y(x) = h * D1^{-1} * k * [y(0) ; 1 ; 1 ; etc]
+
+Solving dy/dx = f(x)
+
+- y(x) = D1^{-1} * [h*f(x_0)+y(0) ; h*f(x_1) ; h*f(x_2) ; etc]
+
+Solving d2y/dx2 = f(x)
+
+- y'(x) = D1^{-1} * [h*f(x_0)+y'(0) ; h*f(x_1) ; h*f(x_2) ; etc]
+
+- y(x) = D1^{-1} * [h*y'(x_0)+y(0) ; h*y'(x_1) ; h*y'(x_2) ; etc]
