@@ -50,3 +50,13 @@ Solving d2y/dx2 = f(x)
 - y'(x) = D1^{-1} * [h*f(x_0)+y'(0) ; h*f(x_1) ; h*f(x_2) ; etc]
 
 - y(x) = D1^{-1} * [h*y'(x_0)+y(0) ; h*y'(x_1) ; h*y'(x_2) ; etc]
+
+
+
+**Week 4
+
+Solving d2y/dx2 = f(x) without going one derivative at a time
+
+Solving dy/dx = k * y
+
+Created an eigenvalues plot for D2
