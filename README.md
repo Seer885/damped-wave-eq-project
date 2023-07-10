@@ -1,5 +1,5 @@
 # damped-wave-eq-project
-**Week 1
+**Week 1**
 
 Setup Github account and repositories
 
@@ -17,7 +17,7 @@ Learn python concepts
 
 
 
-**Week 2
+**Week 2**
 
 Finding second derivatives via approximation using the D2 matrix
 
@@ -35,7 +35,7 @@ Laid foundations for solving differential equations by noting the following fact
 
 
 
-**Week 3
+**Week 3**
 
 Solving dy/dx = k
 
@@ -53,10 +53,23 @@ Solving d2y/dx2 = f(x)
 
 
 
-**Week 4
+**Week 4**
 
 Solving d2y/dx2 = f(x) without going one derivative at a time
 
 Solving dy/dx = k * y
 
 Created an eigenvalues plot for D2
+
+
+
+**Week 5**
+
+Solved d2y/dx2=k*y
+
+Figured out 3D graphing in python
+
+Started working on solving xu{x}=tu{x} with u(x,0)=1.
+
+
+
