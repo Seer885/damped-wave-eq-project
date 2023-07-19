@@ -69,7 +69,13 @@ Solved d2y/dx2=k*y
 
 Figured out 3D graphing in python
 
-Started working on solving xu{x}=tu{x} with u(x,0)=1.
+Started working on approximating xu{x}=tu{x} with u(x,0)=1.
 
+
+**Week 6**
+
+Learned more about approximating xu{x}=tu{t} with finite difference method
+
+Started working on approximating xu{x}=tu{t} with professor's special method
 
 
