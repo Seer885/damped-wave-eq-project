@@ -79,3 +79,11 @@ Learned more about approximating xu{x}=tu{t} with finite difference method
 Started working on approximating xu{x}=tu{t} with professor's special method
 
 
+**Week 7**
+
+Experimented with  pu{x}=qu{t} with professor's special method
+
+Made absolute error graphs
+
+
+
